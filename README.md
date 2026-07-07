@@ -17,54 +17,11 @@
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
+Hi, I'm **Faraja Ahdaf**, an Informatics student from Indonesia with a strong interest in **AI, machine learning, and data analysis**. I enjoy learning how data can be collected, processed, analyzed, and transformed into useful insights, smarter decisions, and intelligent product features.
 
-<p>Hi, I'm <strong>Faraja Ahdaf</strong>, an Informatics student from Indonesia with a strong interest in <strong>AI, machine learning, and data analysis</strong>. I enjoy learning how data can be collected, processed, analyzed, and turned into useful decisions or intelligent product features.</p>
+My current focus is building a stronger foundation in applied AI, machine learning fundamentals, Python-based data analysis, data cleaning, visualization, and model evaluation. I still build web and mobile applications, but I see them as product layers for delivering practical, data-driven experiences to real users.
 
-<p>I still build web and mobile applications, but I see them as product layers for delivering smarter, data-driven experiences. My current direction is combining software engineering with analytics, automation, and applied AI.</p>
-
-</td>
-<td width="42%" valign="top">
-
-<pre><code class="language-yaml">
-name: Faraja Ahdaf
-location: Indonesia
-focus: AI, Machine Learning, Data
-role: AI / ML & Data Enthusiast
-education: Informatics
-mindset: Learn, analyze, build
-</code></pre>
-
-</td>
-</tr>
-</table>
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<th>Area</th>
-<th>What I'm Improving</th>
-</tr>
-<tr>
-<td>Artificial Intelligence</td>
-<td>Applied AI concepts, intelligent features, prompt-driven workflows</td>
-</tr>
-<tr>
-<td>Machine Learning</td>
-<td>Model fundamentals, supervised learning, evaluation, experimentation</td>
-</tr>
-<tr>
-<td>Data Analysis</td>
-<td>Python analytics, data cleaning, visualization, insight generation</td>
-</tr>
-<tr>
-<td>Product Engineering</td>
-<td>Building web and mobile interfaces for AI and data-driven products</td>
-</tr>
-</table>
+I like combining software engineering with analytics, automation, and applied AI, then turning those ideas into projects that are useful, understandable, and continuously improving.
 
 ---
 
@@ -90,6 +47,7 @@ mindset: Learn, analyze, build
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### App Development
 
@@ -200,18 +158,7 @@ mindset: Learn, analyze, build
 
 <div align="center">
 
-<img height="178em" src="https://github-readme-stats.vercel.app/api?username=farajaahdaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=6C63FF&title_color=6C63FF&icon_color=6C63FF" alt="Faraja Ahdaf GitHub stats" />
-<img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farajaahdaf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=6C63FF" alt="Most used languages" />
-
-<br />
-<br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farajaahdaf&theme=tokyonight&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub streak stats" />
-
-<br />
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=farajaahdaf&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&title=Stars,Followers,Repositories,Commit,Issues,PullRequest,Experience" alt="GitHub trophies" />
 
 </div>
 
