@@ -146,18 +146,59 @@ hobbies:
 
 <div align="center">
 
-<a href="https://github.com/farajaahdaf/webportfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farajaahdaf&repo=webportfolio&theme=tokyonight&hide_border=true&show_owner=true&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-<a href="https://github.com/farajaahdaf/EVORIA-MOBILE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farajaahdaf&repo=EVORIA-MOBILE&theme=tokyonight&hide_border=true&show_owner=true&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-<a href="https://github.com/farajaahdaf/Evoria">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farajaahdaf&repo=Evoria&theme=tokyonight&hide_border=true&show_owner=true&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-<a href="https://github.com/farajaahdaf/VibeMapsAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farajaahdaf&repo=VibeMapsAI&theme=tokyonight&hide_border=true&show_owner=true&title_color=6C63FF&icon_color=6C63FF" />
-</a>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🌐 Web Portfolio</h3>
+<p align="center">
+  <a href="https://github.com/farajaahdaf/webportfolio">
+    <img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+</td>
+<td width="50%">
+<h3 align="center">📱 EVORIA Mobile</h3>
+<p align="center">
+  <a href="https://github.com/farajaahdaf/EVORIA-MOBILE">
+    <img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🏠 Evoria</h3>
+<p align="center">
+  <a href="https://github.com/farajaahdaf/Evoria">
+    <img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🗺️ VibeMaps AI</h3>
+<p align="center">
+  <a href="https://github.com/farajaahdaf/VibeMapsAI">
+    <img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
